@@ -4,7 +4,7 @@ This repo represents a complete refresh and restart of everything I know about S
 
 I will be going through from the ground up and doing all the tutorials from scratch for as long as it takes and progress will be recorded here. 
 
-All credit and kudos to [Lazy Foo' Productions](www.lazyfoo.net)
+All credit and kudos to [Lazy Foo' Productions](https://www.lazyfoo.net)
 
 ## Dependencies
 
